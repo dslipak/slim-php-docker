@@ -1,0 +1,4 @@
+.DS_Store
+app/composer.json
+app/composer.lock
+app/vendor/
